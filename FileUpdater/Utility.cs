@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace FileUpdater
 {
+    //This is utility class
     static class Utility
     {
         public static string FileToHashString(string filePath)
